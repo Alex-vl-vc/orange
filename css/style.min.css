@@ -899,7 +899,6 @@ body {
 
 @media (min-width: 768px) and (max-width: 991px) {
   .container {
-    border: 1px solid black;
     max-width: 991px;
     position: relative;
     margin: 0 auto;
